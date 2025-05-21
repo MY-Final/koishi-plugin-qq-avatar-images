@@ -1,0 +1,33 @@
+{
+  "name": "koishi-plugin-qq-avatar-images",
+  "description": "通过at或QQ号获取指定群友高清头像，抄的别人的",
+  "version": "0.0.3",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MY-Final/koishi-plugin-qq-avatar-images",
+  "author": {
+    "name": "Final",
+    "email": "mydj666@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MY-Final/koishi-plugin-qq-avatar-images"
+  },
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "qq",
+    "avatar",
+    "image"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.0"
+  }
+}
